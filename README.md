@@ -22,7 +22,7 @@ IP Address & Xbox Live device ID
 For the app to connect to your Xbox, 3 things are required:
 
 1. Your router must forward port 5050 to your Xbox.
-2. As your Xbox will be tunred on remotely, the public IP address for your Xbox is needed.
+2. As your Xbox will be turned on remotely, the public IP address for your Xbox is needed.
 3. The Xbox Live device ID. On your Xbox: All settings > System > Console info & updates.
  
 Testing
